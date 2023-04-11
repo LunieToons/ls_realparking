@@ -1,7 +1,3 @@
---[[ ===================================================== ]]--
---[[         FiveM Real Parking Script by Akkariin         ]]--
---[[ ===================================================== ]]--
-
 ESX = nil
 
 TriggerEvent("esx:getSharedObject", function(response)
